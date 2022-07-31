@@ -23,7 +23,7 @@
   </div>
   
   <div>
-    ![Snake animation](https://github.com/gutofpinto)
+    ![Snake animation](https://github.com/gutofpinto/gutofpinto/blob/output/github-contribution-grid-snake.svg)
   </div>
 
   
