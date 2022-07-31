@@ -21,7 +21,3 @@
     <img align="center" alt="AFP-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      <img align="center" alt="AFP-BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   </div>
-  
-  <div align="center">
-    ![Snake animation](https://github.com/gutofpinto/gutofpinto/blob/output/github-contribution-grid-snake.svg)
-  </div>
